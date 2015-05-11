@@ -1,0 +1,24 @@
+{
+  "name": "is-opera-mini",
+  "version": "1.0.0",
+  "description": "detect Opera Mini versions with limited JavaScript support using the official method",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:maxhoffmann/is-opera-mini.git"
+  },
+  "keywords": [
+    "opera",
+    "mini",
+    "detection",
+    "detect",
+    "js",
+    "no-js"
+  ],
+  "author": "Maximilian Hoffmann",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maxhoffmann/is-opera-mini/issues"
+  },
+  "homepage": "https://github.com/maxhoffmann/is-opera-mini"
+}

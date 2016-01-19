@@ -1,2 +1,2 @@
 "use strict";
-module.exports = window && Object.prototype.toString.call(window.operamini) === "[object OperaMini]";
+module.exports = typeof window !== "undefined" && Object.prototype.toString.call(window.operamini) === "[object OperaMini]";
